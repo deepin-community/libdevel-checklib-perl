@@ -1,3 +1,16 @@
+libdevel-checklib-perl (1.16-1) unstable; urgency=medium
+
+  [ Debian Janitor ]
+  * Bump debhelper from old 12 to 13.
+  * Update standards version to 4.5.1, no changes needed.
+
+  [ gregor herrmann ]
+  * Import upstream version 1.16.
+  * Update years of packaging copyright.
+  * Declare compliance with Debian Policy 4.6.0.
+
+ -- gregor herrmann <gregoa@debian.org>  Sat, 07 May 2022 20:49:02 +0200
+
 libdevel-checklib-perl (1.14-2) unstable; urgency=medium
 
   * Drop alternative dependency on c-compiler.
